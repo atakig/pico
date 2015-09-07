@@ -14,3 +14,4 @@ Description: JavaScript Links
 * [Aurelia](http://aurelia.io)
 * [RIOT](http://riotjs.com)
 * [Riot.js 2.2 情報まとめ](http://qiita.com/cognitom/items/54ae38c9a50dbbe28367)
+* [Riot.js ドキュメント日本語版](http://qiita.com/cognitom/items/018a65a6136689c49de6)
