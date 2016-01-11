@@ -17,3 +17,5 @@ Description: JavaScript Links
 * [REMODAL](http://vodkabears.github.io/remodal/)
 * [Zepto.js](http://zeptojs.com)
 * [Redux](http://rackt.org/redux/index.html)
+* [Falcor](http://netflix.github.io/falcor/)
+* [Promiseはどう動作するのか – Promiseを実装してみる](http://postd.cc/how-do-promises-work/)
